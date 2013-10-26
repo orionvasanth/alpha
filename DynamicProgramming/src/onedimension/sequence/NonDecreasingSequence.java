@@ -1,4 +1,4 @@
-package sequence;
+package onedimension.sequence;
 
 public class NonDecreasingSequence {
 

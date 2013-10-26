@@ -1,4 +1,4 @@
-package coins;
+package onedimension.coins;
 
 import java.util.Arrays;
 
