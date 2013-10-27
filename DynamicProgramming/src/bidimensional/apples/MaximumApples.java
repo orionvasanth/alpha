@@ -8,7 +8,7 @@ public class MaximumApples {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		int[][] apples = { { 1, 0, 0 }, { 0, 1, 0 }, { 0, 0, 1 } };
+		int[][] apples = { { 1, 0, 10 }, { 0, 1, 0 }, { 0, 0, 1 } };
 		MaximumApples maximumApples = new MaximumApples();
 		System.out.println(maximumApples.findMaximumApples(apples));
 	}
